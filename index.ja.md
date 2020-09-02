@@ -47,7 +47,7 @@ Made available under the
 ## Lifetime of branches
 
 - 新しい `release` ブランチが作成されると、以前のバージョンのサポートが削除される可能性があります
-- 以前のバージョンのバグ修正は、適切な PR が対処した場合にのみリリースされます
+- Bugfixes to previous versions are only released if a suitable PR addresses them.
 
 ## Release preparation
 
