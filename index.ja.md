@@ -19,7 +19,7 @@ Made available under the
 - [Roberto Di Remigio](https://totaltrash.xyz)
 - [Radovan Bast](http://bast.fr)
 
-## セマンティック分岐モデルを使用するプロジェクトの前提条件
+## セマンティックブランチモデルを使用するプロジェクトの前提条件
 
 * [semantic versioning](http://semver.org) を使用します
 * fork-and-pull-request (or fork-and-merge-request) ワークフローに厳密に従います
