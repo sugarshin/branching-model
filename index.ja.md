@@ -42,7 +42,7 @@ Made available under the
 3. `release/X.Y` ブランチは、次の **マイナー** リリースに向けた変更を収集します
 3. `release/X.Y.Z` ブランチは、次の **パッチ** リリースに向けた変更を収集します
 4. 新しい feature は、 `master` または `release/X.Y` ブランチに向けられます
-5. パッチリリースブランチ `release/X.Y.Z` は新しい機能を受け取ることはなく、バグ修正のみを受け取ります
+5. パッチリリースブランチの `release/X.Y.Z` は新しい機能の変更を受け取ることはなく、バグ修正のみを受け取ります
 
 ## Lifetime of branches
 
